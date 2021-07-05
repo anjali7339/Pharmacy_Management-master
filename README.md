@@ -2,7 +2,7 @@
 
 **How to run the Project:**
 1. Clone this repo using 
-   -https://github.com/anjaliram7/Cryptography_project.git 
+   -https://github.com/anjaliram7/Pharmacy_Management-master.git
 2. Install IntelliJ IDEA or any other IDE of your choice.
 3. Use XAMPP or SSMS or any server of your choice.
 4. First create the MySql database on SSMS server using the sql file in the repo.
